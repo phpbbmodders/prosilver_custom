@@ -8,3 +8,7 @@ Custom style that moves viewforum_body.html around:
 * Topics
 
 Create `prosilver_custom` and place the files in it. If you use a style other than prosilver, then open the style.cfg and change ``parent =`` to the correct style. Then make prosilver_custom your default style. The viewforum_body.html in prosilver_custom will override the one in the parent style.
+
+[img="./contrib/screenshot.jpg"]
+
+![Screenshot](./contrib/screenshot.jpg)
